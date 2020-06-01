@@ -1,0 +1,107 @@
+.banner-logo {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.logo {
+    height: 55px;
+    width: 70px;
+}
+
+.title {
+    margin-top: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+/*** Nos réalisations ***/
+body {
+    font-family: "Montserrat", sans-serif !important;
+}
+
+.realisation {
+    text-align: center;
+}
+
+.img-realisation {
+    width: 100%;
+    height: 300px;
+}
+
+.title-img-realisation {
+    margin-top: 25px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+.link {
+    color: black;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.link:hover {
+    color: rgb(22, 22, 22);
+}
+
+/*** Le groupe ***/
+.title-groupe {
+    font-weight: bolder;
+}
+
+.img-groupe {
+    background-image: url("../../res/images/04.jpg");
+    width: 100%;
+    height: 1100px;
+}
+
+.desc-groupe {
+    color: white;
+    width: 50%;
+    margin-right: 0px;
+    margin-left: 50%;
+    padding-top: 450px;
+    padding-right: 5%;
+}
+
+.interval {
+    height: 90px;
+}
+
+/*** valeurs ***/
+.img-valeur {
+    width: 100%;
+    height: 950px;
+}
+
+.valeur {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.txt-image {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/*** footer ***/
+.footer {
+    margin-top: 50px;
+    background-color: rgb(56, 56, 56);
+    font-size: 12px;
+    text-align: center;
+    height: 140px;
+    padding: 25px;
+}
+
+.img-footer {
+    margin: 25px;
+    fill: white;
+}
+
+.img-footer {
+    cursor: pointer;
+}
